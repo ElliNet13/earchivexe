@@ -77,4 +77,6 @@ def main():
     print(f"Self-extracting archive script created successfully: {output_file}")
 
 if __name__ == "__main__":
+    print("Welcome to the ElliNet13's Archive Executeable Generator!")
+    print("Warning: G++ is required for this to work.")
     main()
